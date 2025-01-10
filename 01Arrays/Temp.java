@@ -10,5 +10,7 @@ public class Temp {
         System.out.println(aarr[0]);
         System.out.println(aarr[1]);
         System.out.println(aarr[2]);
+        System.out.println(aarr[3]);
+
     }
 }
